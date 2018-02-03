@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Benqio_class_four</string>
+    <string-array name="list_title">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+
+    </string-array>
+    <string-array name="list_content">
+        <item>one content</item>
+        <item>two content</item>
+        <item>three content</item>
+        <item>four content</item>
+        <item>five content</item>
+
+    </string-array>
+    <array name="images_list">
+        <item>@drawable/android</item>
+        <item>@drawable/java</item>
+        <item>@drawable/html5</item>
+        <item>@drawable/python</item>
+        <item>@drawable/c-sharp</item>
+    </array>
 </resources>
